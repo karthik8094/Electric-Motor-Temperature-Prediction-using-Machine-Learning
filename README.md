@@ -1,5 +1,6 @@
 # Electric-Motor-Temperature-Prediction-using-Machine-Learning
 A Machine Learning-based Electric Motor Temperature Prediction system built using Python, Scikit-Learn, and Flask. The project analyzes motor sensor data, evaluates multiple regression models, selects the best-performing Random Forest model, and provides real-time temperature prediction through a user-friendly web interface.
+
 ---
 
 ## 🎯 Project Objective
@@ -114,16 +115,13 @@ http://127.0.0.1:5000
 
 ---
 
-Email:
+Email:Karthiknanabala8094@gmail.com
 
-Karthiknanabala8094@gmail.com
 Smart Bridge Internship: https://apsche.smartinternz.com/ Developed as part of the Smart Bridge Artificial Intelligence and Machine learning Internship Program
 
 **Nanabala Karthik**
 
 B.Tech (Electronics & Communication Engineering)
-
-Aspiring Data Scientist | Machine Learning Enthusiast
 
 ---
 
